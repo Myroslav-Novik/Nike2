@@ -1,0 +1,15 @@
+.container {
+    width: 360px;
+    margin: 0 auto;
+}
+
+.section-main {
+    height: 737px;
+    background-image: url(./images/background.png);
+}
+
+
+
+.logo {
+    margin: 33px ;
+}
